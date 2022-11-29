@@ -5,13 +5,19 @@
 
 <p align="left"> <a href="https://twitter.com/mipo_7" target="blank"><img src="https://img.shields.io/twitter/follow/mipo_7?logo=twitter&style=for-the-badge" alt="mipo_7" /></a> </p>
 
+- 🔭 I’m currently working on **project using Javascript and Firebase at work**
+
 - 🌱 I’m currently learning **Javascript, Typescript, Vue.js, Python, Fast API**
 
-- 🤝 I’m looking for help with **learning Typescript**
+- 👯 I’m looking to collaborate on **developing Vue.js project**
 
-- 💬 Ask me about **Google App Scripts, Javascript, Webflow**
+- 🤝 I’m looking for help with **learning Typescript and finding Frontend job**
+
+- 💬 Ask me about **Google App Scripts, Javascript, HTML&CSS, Webflow**
 
 - 📫 How to reach me **https://www.linkedin.com/in/miho-hayashi-39273b2a/**
+
+- 📄 Know about my experiences [https://www.linkedin.com/in/miho-hayashi-39273b2a/](https://www.linkedin.com/in/miho-hayashi-39273b2a/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
